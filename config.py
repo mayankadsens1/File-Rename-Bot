@@ -36,14 +36,14 @@ class Config(object):
     # digital_botz client config
     API_ID = os.environ.get("API_ID", "23159366")
     API_HASH = os.environ.get("API_HASH", "4623dd30dd1303bddb729eb0862262d9")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6598452023:AAGtyH-2z4Di679l5U5ircbgpHskd8cA7OM") 
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "659845kd8cA7OM") 
 
     # premium account string session required 😢 
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
-    DB_URL = os.environ.get("DB_URL","mongodb+srv://fortestuse:fortestuse@cluster0.zueavem.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DB_URL = os.environ.get("DB_URL","mongoder0.ajority&appName=Cluster0")
  
     # other configs
     RKN_PIC = os.environ.get("RKN_PIC", "https://telegra.ph/file/b746aadfe59959eb76f59.jpg")
